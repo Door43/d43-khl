@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[khl:home|Door43 (khl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-khl|d43-khl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-khl/archive/master.zip|d43-khl.zip]]
+
+**Recent Changes**
+{{changes>ns = khl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/khl|Ethnologue data]]
+
